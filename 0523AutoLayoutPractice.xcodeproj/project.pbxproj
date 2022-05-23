@@ -16,6 +16,7 @@
 		2BF8C9FA283B26E00068BB42 /* _523AutoLayoutPracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF8C9F9283B26E00068BB42 /* _523AutoLayoutPracticeTests.swift */; };
 		2BF8CA04283B26E00068BB42 /* _523AutoLayoutPracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF8CA03283B26E00068BB42 /* _523AutoLayoutPracticeUITests.swift */; };
 		2BF8CA06283B26E00068BB42 /* _523AutoLayoutPracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BF8CA05283B26E00068BB42 /* _523AutoLayoutPracticeUITestsLaunchTests.swift */; };
+		2BF8CA13283B3F2C0068BB42 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2BF8CA12283B3F2C0068BB42 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2BF8C9FF283B26E00068BB42 /* 0523AutoLayoutPracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 0523AutoLayoutPracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BF8CA03283B26E00068BB42 /* _523AutoLayoutPracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _523AutoLayoutPracticeUITests.swift; sourceTree = "<group>"; };
 		2BF8CA05283B26E00068BB42 /* _523AutoLayoutPracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _523AutoLayoutPracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2BF8CA12283B3F2C0068BB42 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2BF8C9EB283B26E00068BB42 /* Assets.xcassets */,
 				2BF8C9ED283B26E00068BB42 /* LaunchScreen.storyboard */,
 				2BF8C9F0283B26E00068BB42 /* Info.plist */,
+				2BF8CA12283B3F2C0068BB42 /* README.md */,
 			);
 			path = 0523AutoLayoutPractice;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			files = (
 				2BF8C9EF283B26E00068BB42 /* LaunchScreen.storyboard in Resources */,
 				2BF8C9EC283B26E00068BB42 /* Assets.xcassets in Resources */,
+				2BF8CA13283B3F2C0068BB42 /* README.md in Resources */,
 				2BF8C9EA283B26DF0068BB42 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -437,6 +441,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7J8F33MW4V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 0523AutoLayoutPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -464,6 +469,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 7J8F33MW4V;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = 0523AutoLayoutPractice/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
